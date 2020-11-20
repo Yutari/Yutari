@@ -13,4 +13,4 @@ Awesome Programmer!
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yutari01@hanyang.ac.kr)](mailto:yutari01@hanyang.ac.kr)
-![Discord](https://img.shields.io/discord/758177547602493472?color=blue&label=Dev&logo=discord&style=flat-square)(https://discord.gg/5Ar8WGfmyH)
+![Discord](https://img.shields.io/discord/758177547602493472?color=blue&label=Dev&logo=discord&style=flat-square&link=https://discord.gg/5Ar8WGfmyH)
