@@ -12,6 +12,5 @@ Awesome Programmer!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yutari&layout=compact)](https://github.com/Yutari/github-readme-stats)
 
 ### :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yutari01@hanyang.ac.kr)](mailto:yutari01@hanyang.ac.kr)
 ![Discord Banner 2](https://discordapp.com/api/guilds/778947466791092265/widget.png?style=banner2)
 
