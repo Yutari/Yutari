@@ -12,5 +12,5 @@ Awesome Programmer!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yutari&layout=compact)](https://github.com/Yutari/github-readme-stats)
 
 ### :mailbox_with_mail: Contacts
-![Discord Banner 2](https://discordapp.com/api/guilds/778947466791092265/widget.png?style=banner2)
+[![Discord Banner 2](https://discordapp.com/api/guilds/778947466791092265/widget.png?style=banner2)](https://discord.gg/SfwWs7UKEY)
 
