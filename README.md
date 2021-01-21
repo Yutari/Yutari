@@ -7,8 +7,8 @@
 ### :purple_heart: Career
 Incheon Jinsan Science High School (2017-2019)  
 Department of Computer Science, Hanyang University (2020-)  
-C/C++/Python/Java -> I can make anything!
-
+C/C++/Python/Java
+Go/Java -> Studying
 
 
 Awesome Programmer!
