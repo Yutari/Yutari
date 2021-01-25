@@ -8,7 +8,7 @@
 Incheon Jinsan Science High School (2017-2019)  
 Department of Computer Science, Hanyang University (2020-)  
 C/C++/Python -> Make anything!
-Go/Java -> Studying
+Go/Java/JS -> Studying
 
 
 Awesome Programmer!
