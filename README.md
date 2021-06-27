@@ -6,7 +6,6 @@
 <!--Hi Message-->
 <h2>Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
----
 <!-- State Sentence -->
 <h3>I'm U.meo</h3>
 
