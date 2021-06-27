@@ -66,5 +66,6 @@ Other             0 secs                 00.0%
 
 ---
 <!-- Friend! -->
-<center><img src="https://media.giphy.com/media/3o85xjSETVG3OpPyx2/giphy.gif" width="60"><center/>
-<b>I love talk with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself😊</b>
+<p align="center"><img src="https://media.giphy.com/media/3o85xjSETVG3OpPyx2/giphy.gif" width="100"><p>
+<p align="center">I love talk with different people from around the world,<p>  
+<p align="center">so if you want to be my friend, feel free to reach out and introduce yourself😊<p>  
