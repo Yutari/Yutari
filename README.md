@@ -12,7 +12,7 @@
 <!-- Info about me -->
 - 🎓I'm a student at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Korea.  
 - ✨I like to explore new technologies.  
-- 🧱[Minecraft](https://www.minecraft.net/en-us) is my favourite game.  
+- 🧱[Minecraft](https://www.minecraft.net/en-us) is my favourite game. [Profile](https://namemc.com/profile/U_meo.1) [Profile(Alt)](https://namemc.com/profile/AIGamer.3)  
 - 🌎I can speak Korean(한국어), English, Japanese(日本語)
 - 🪖Pre-scheduled military leave will be activated in August 2021 ~ February 2023.
 
@@ -20,7 +20,7 @@
 <h3>Team.Infinity</h3>
 
 <!-- Info about team -->
-- 🔥I'm working on [Team.Infinity](https://team.hamdan.kr/).
+- 🔥I'm working on [Team.Infinity](https://teaminf.tech).
 
 <!-- Language -->
 <h3>Language and Stuff</h3>
